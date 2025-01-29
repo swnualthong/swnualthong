@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @swnualthong
-- 👀 I’m interested in AI Trend
-- 🌱 I’m currently learning C language
+- 👀 I’m interested in Cybersecurity Trend
+- 🌱 I’m currently learning JAVA language
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me Bankkok, Thailand
+- 📫 How to reach me Bangkok, Thailand
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love programing but not professional on any language
+- ⚡ Fun fact: Love programing but not professional on any language now
 
 Too lazy I will fix this readme soon ^^
 <!---
